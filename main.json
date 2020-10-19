@@ -1,0 +1,15 @@
+{
+    "name": "new_pro",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    },
+    "author": "spmhot&satya",
+    "license": "ISC",
+    "dependencies": {
+        "http-server": "^0.12.3",
+        "node-sass": "^4.14.1"
+    }
+}
